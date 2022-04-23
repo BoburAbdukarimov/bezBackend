@@ -40,7 +40,7 @@ body{
     border: 1px solid #ccc;
 }
 input:focus {
-    border: none;
+    border: none; 
   }
 .forma label{
     font-size: 20px;
